@@ -1,0 +1,58 @@
+.text{
+    font-size: 20px;
+    margin-top: 25px;
+}
+.filters{
+    display: flex;
+    justify-content: center;
+}
+.filters-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.filter{
+    border: 3px solid #000000;
+    color: #000000;
+    padding: 12px 25px;
+    margin: 50px 0;
+    font-size: 24px;
+}
+.cards-content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.price-icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 150px;
+}
+.name, .price{
+    font-size: 30px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 13px;
+}
+.cards{
+    margin: 50px 0;
+}
+.poisk{
+    background-color: #000000;
+    padding: 5px;
+    max-width: 200px;
+}
+.search{
+    padding: 10px;
+}

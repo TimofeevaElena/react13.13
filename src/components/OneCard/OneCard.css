@@ -1,0 +1,32 @@
+.one-card-content{
+    display: flex;
+    flex-direction: row;
+    margin: 50px 0;
+    gap: 50px;
+}
+.one-card-inf{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.col{
+    color: #735184;
+}
+select{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 15px 30px;
+    max-width: 350px;
+}
+.btn-like{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+}
+.to-bag{
+    background-color: #735184;
+    color: #FFFFFF;
+    padding: 15px 30px;
+}

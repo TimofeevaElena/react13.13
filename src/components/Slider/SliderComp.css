@@ -1,0 +1,11 @@
+.sliders{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slide{
+
+}
+.slide-img{
+    max-width: 500px;
+}

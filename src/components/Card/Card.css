@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.price-icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 150px;
+}
+.name, .price{
+    font-size: 30px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 13px;
+}
+.cards{
+    margin: 50px 0;
+}
+.card-img{
+    width: 400px;
+}
